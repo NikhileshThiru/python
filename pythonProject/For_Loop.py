@@ -8,5 +8,3 @@ for letter in "Giraffe Academy":
 
 for index in range(3, 11):
     print(index)
-
-
