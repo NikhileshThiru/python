@@ -11,4 +11,3 @@ class Shadowclone14:
 
 
 Shadowclone14 = Shadowclone14()
-Shadowclone14.bored()
